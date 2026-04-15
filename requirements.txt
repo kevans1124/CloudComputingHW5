@@ -1,5 +1,0 @@
-requests
-boto3
-pyparsing
-six
-flake8
